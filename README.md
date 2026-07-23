@@ -2,8 +2,6 @@
 
 A lightweight, configurable web crawler/scraper project. This repository contains tools and example code for crawling websites, extracting data, and saving results for further analysis. The README below gives quickstart instructions, configuration options, and development notes — update the sections marked TODO to reflect the actual implementation details in this repo.
 
-> NOTE: I don't have the code details in this prompt — please edit the Usage and Requirements sections if your project uses a specific language, framework, or entrypoint.
-
 ## Features
 
 - Configurable crawling depth, concurrency, and rate limits
@@ -76,34 +74,3 @@ Adjust these keys to match your project's actual configuration schema.
 
   python -m crawler.main --config config/example_config.yml
 
-- Run tests:
-
-  pytest
-
-## Development
-
-- Follow existing code style.
-- Add tests for new features and bug fixes.
-- Use meaningful commit messages and open a pull request for review.
-
-## Contributing
-
-Contributions are welcome. Please:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feat/my-feature`
-3. Add tests and documentation
-4. Submit a pull request describing your changes
-
-## License
-
-This project is provided under the MIT License — change this if you use a different license.
-
-## Contact
-
-Maintainer: dule1998
-
-
----
-
-TODO: Replace placeholders above (entrypoint, dependencies, runtime) with the accurate project details so the README precisely reflects this repository.
